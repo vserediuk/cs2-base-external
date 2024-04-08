@@ -29,7 +29,7 @@ Compile as Release or Debug. Either configuration will provide you with a compil
 - Draw most native ImGui drawlist objects with thread safety (Credits: qo0)
 
 **Aimbot**
-- N/A
+50/50
 
 **Triggerbot**
 - N/A
